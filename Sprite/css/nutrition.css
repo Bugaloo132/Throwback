@@ -1,0 +1,11 @@
+body {
+    width: 1920px;
+    height: 1080px;
+    background-color: black;
+}
+
+.can {
+    width: 800px;
+    position: absolute;
+    left: 400px;
+}
